@@ -1,0 +1,5 @@
+HMSET user:100002 id 100002 username georgy email georgy@gmail.com country USA age 30
+HMSET user:100003 id 100003 username jane email jane@outlook.com country USA age 29
+HMSET user:100004 id 100004 username kate email kate@yahoo.com country Australia age 40
+HMSET user:100005 id 100005 username mike email mike@gmail.com country USA age 26
+HMSET user:100006 id 100006 username cyrill email cyrill@aol.com country Australia age 33

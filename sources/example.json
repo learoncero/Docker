@@ -1,0 +1,21 @@
+{
+    "viewCounter": 0,
+    "basketItems": [
+        {
+            "name": "Riebelgriess",
+            "qty": 1
+        },
+        {
+            "name": "Milch",
+            "qty": 1
+        },
+        {
+            "name": "Salzmühle",
+            "qty": 1
+        },
+        {
+            "name": "Margarine",
+            "qty": 1
+        }
+    ]
+}
